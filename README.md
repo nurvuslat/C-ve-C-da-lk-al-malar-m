@@ -1,2 +1,2 @@
-# C-ve-C-da-lk-al-malar-m
+# C-ve-Cplusplus-da-ilk-alistirmalar
 c and c++ first examples 
